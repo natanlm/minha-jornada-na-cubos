@@ -14,7 +14,7 @@
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 ### Carreira:
 * GitHub
-  * dsa
+  * É uma plataforma que serve como portfólio dos projetos realizados pela própria pessoa. Além de divulgar seus projetos é possível colaborar com projetos de terceiros, como também terceiros participando do seus projetos.
 * Tendências em tecnologia
   * dsa
     
@@ -31,7 +31,9 @@
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 ### Carreira:
 * GitHub
-  * dsa
+  * Aprender a desenvolver um perfil(Readme) mais profissional.
+  * Entender melhor as aplicações de como utilizar o GitHub.
+  * Aprender as práticas mais técnicas da plataforma.
 * Tendências em tecnologia
   * dsa
     
