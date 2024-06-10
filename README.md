@@ -50,7 +50,10 @@
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 ### Carreira:
 * GitHub
-  * dsa
+  * O GitHub é uma plataforma que serve como cartão de entrada para recrutadores ou pessoas da área _tech_, como um currículo é preciso ter informações sucintas e claras: quem é você; no que você trabalho; suas habilidades; contatos e afins.
+  * A própria plataforma possui um mecânismo que deixa vísivel o quanto você contribiu desde a criação da sua conta. Entretanto, essas contribuições não se limitam apenas aos seus próprios projetos ou o desenvolvimentos de códigos, como contribuir com projetos _Open Source_ permitem que o mostrador registre suas contribuições.
+  * Foram apresentadas boas práticas para os projetos, tanto para projetos solo como em equipes. As principais boas práticas partem da organização que você tem com seu código e com claro e objetivo é ele, utilização de _commits_ que explicam o que foi feito e não algo de modo genérico.
+  * Utilizar o _Readme_ do projeto de modo que fique claro o que é o projeto, para que serve, como será construído e se possuí alguma inspiração para sua criação.
 * Tendências em tecnologia
   * dsa
     
