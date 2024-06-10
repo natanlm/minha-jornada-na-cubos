@@ -20,7 +20,7 @@
     
 ### Back-end:
 * Testes Automatizados
-  * dsa
+  * Etapa para criar e verificar se os testes aplicados estão aprovados ou não.
 * Primeiro Servidor
   * dsa
 * Rotas, Intermediários e Controladores
@@ -39,7 +39,7 @@
     
 ### Back-end:
 * Testes Automatizados
-  * dsa
+  * Entender o que é e para que serve a realização de testes automatizados, como também a utilizar da melhor forma possível e onde aplicar no código/projeto a utilização dos testes.
 * Primeiro Servidor
   * dsa
 * Rotas, Intermediários e Controladores
@@ -59,7 +59,8 @@
     
 ### Back-end:
 * Testes Automatizados
-  * dsa
+  * É uma aplicação de realização de teste automatizados onde é utilizado uma biblioteca como a jest e ela insere valores aleatórios para validar o código. Para isso é necessário criar um arquivo que realize os testes.
+  * Foi aprendido a criar um arquivo que exclui arquivos para não serem comentados e não entrarem no GitHub
 * Primeiro Servidor
   * dsa
 * Rotas, Intermediários e Controladores
