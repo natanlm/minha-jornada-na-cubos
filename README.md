@@ -16,17 +16,17 @@
 * GitHub
   * É uma plataforma que serve como portfólio dos projetos realizados pela própria pessoa. Além de divulgar seus projetos é possível colaborar com projetos de terceiros, como também terceiros participando do seus projetos.
 * Tendências em tecnologia
-  * dsa
+  * 
     
 ### Back-end:
 * Testes Automatizados
   * Etapa para criar e verificar se os testes aplicados estão aprovados ou não.
 * Primeiro Servidor
-  * dsa
+  * Um centro de gerenciamento de dados/informação de modo local para ocorrer a familiarização e ter um primeiro contato sobre o que é Servidor.
 * Rotas, Intermediários e Controladores
-  * dsa
+  * 
 * API REST
-  * dsa
+  * 
  
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 ### Carreira:
@@ -41,7 +41,7 @@
 * Testes Automatizados
   * Entender o que é e para que serve a realização de testes automatizados, como também a utilizar da melhor forma possível e onde aplicar no código/projeto a utilização dos testes.
 * Primeiro Servidor
-  * dsa
+  * Aprender a criar e configurar o Servidor de modo que não haja falhas. Entender as diferenças de criar de forma local e hospetada e como isso impacta no dia a dia.
 * Rotas, Intermediários e Controladores
   * dsa
 * API REST
