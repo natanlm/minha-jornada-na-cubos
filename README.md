@@ -24,7 +24,7 @@
 * Primeiro Servidor
   * Um centro de gerenciamento de dados/informação de modo local para ocorrer a familiarização e ter um primeiro contato sobre o que é Servidor.
 * Rotas, Intermediários e Controladores
-  * .
+  * Não tenho conhecimento sobre o assunto, mas imagino que seja algo relacionado a algo que crie a ligação entre usuário e o servidor, junto a mecanismos que direcionem e controle isso.
 * API REST
   * .
  
@@ -43,7 +43,8 @@
 * Primeiro Servidor
   * Aprender a criar e configurar o Servidor de modo que não haja falhas. Entender as diferenças de criar de forma local e hospetada e como isso impacta no dia a dia.
 * Rotas, Intermediários e Controladores
-  * dsa
+  * Espero compreender o que realmente é Rota, Intermediários e Controladores.
+  * Entender as funcionalidades de cada item e como aplicar os mesmos da melhor forma possível. 
 * API REST
   * dsa
  
