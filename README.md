@@ -24,9 +24,9 @@
 * Primeiro Servidor
   * Um centro de gerenciamento de dados/informação de modo local para ocorrer a familiarização e ter um primeiro contato sobre o que é Servidor.
 * Rotas, Intermediários e Controladores
-  * 
+  * .
 * API REST
-  * 
+  * .
  
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 ### Carreira:
@@ -62,7 +62,9 @@
   * É uma aplicação de realização de teste automatizados onde é utilizado uma biblioteca como a jest e ela insere valores aleatórios para validar o código. Para isso é necessário criar um arquivo que realize os testes.
   * Foi aprendido a criar um arquivo que exclui arquivos para não serem comentados e não entrarem no GitHub
 * Primeiro Servidor
-  * dsa
+  * Foram apresentadas os conceitos de como executar um servidor com a utilização do Node.js
+  * Há duas bibliotecas que permitem o trabalho para se desenvolver um servidor, sendo: __Fastify__ e __express__. Ambas as bibliotecas podem ser trabalhadas com __JavaScript__ ou __TypeScript__, como também possuem certas familiaridades na sua construção de código. Entretanto, a biblioteca __Express__ ainda é a mais utilizada no dia a dia.
+  * Duas coisas que importantes de se lembrar são: 1. usar sempre uma porta que não esteja em uso para não dar conflito e 2. sempre 'desligar' a porta quando realizar alguma mudança, pois se não desligar não verá as alterações mesmo se salvar ou atualizar a página.  
 * Rotas, Intermediários e Controladores
   * dsa
 * API REST
