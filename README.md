@@ -16,7 +16,7 @@
 * GitHub
   * É uma plataforma que serve como portfólio dos projetos realizados pela própria pessoa. Além de divulgar seus projetos é possível colaborar com projetos de terceiros, como também terceiros participando do seus projetos.
 * Tendências em tecnologia
-  * .
+  * Linguagens ou ferramentas que estão ganhando certa popularidade ou prometem facilitar ou melhorar aquilo que já está em uso pelos usuários. 
     
 ### Back-end:
 * Testes Automatizados
@@ -35,7 +35,7 @@
   * Entender melhor as aplicações de como utilizar o GitHub.
   * Aprender as práticas mais técnicas da plataforma.
 * Tendências em tecnologia
-  * dsa
+  * Quero conhecer o que está em alta, o que promete revolucionar ou facilitar a vida do usuário. Se há locais que são mais propícios a gerar ou utilizar essas tendencias. 
     
 ### Back-end:
 * Testes Automatizados
