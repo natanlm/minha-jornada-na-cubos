@@ -16,7 +16,7 @@
 * GitHub
   * É uma plataforma que serve como portfólio dos projetos realizados pela própria pessoa. Além de divulgar seus projetos é possível colaborar com projetos de terceiros, como também terceiros participando do seus projetos.
 * Tendências em tecnologia
-  * 
+  * .
     
 ### Back-end:
 * Testes Automatizados
@@ -67,6 +67,8 @@
   * Há duas bibliotecas que permitem o trabalho para se desenvolver um servidor, sendo: __Fastify__ e __express__. Ambas as bibliotecas podem ser trabalhadas com __JavaScript__ ou __TypeScript__, como também possuem certas familiaridades na sua construção de código. Entretanto, a biblioteca __Express__ ainda é a mais utilizada no dia a dia.
   * Duas coisas que importantes de se lembrar são: 1. usar sempre uma porta que não esteja em uso para não dar conflito e 2. sempre 'desligar' a porta quando realizar alguma mudança, pois se não desligar não verá as alterações mesmo se salvar ou atualizar a página.  
 * Rotas, Intermediários e Controladores
-  * dsa
+  * Compreendi o que são Rotas, Intermediários e Controladores. Onde tudo se inicia com a requisição feito do usuário para o servidor que após o processo devolve para o usuário. A requisição feito ao servidor precisa estar de acordar com as rotas disponíveis que encaminham para os controladores correspondentes. Os intermediários atuam como interceptador das requisições, pois protegem ou precisam validar antes de continuar para o controlador.
+  * Aprendi a estruturar um servidor de forma mais organizada separando cada item ao seu projeto e apenas importando eles para o principal, deixando assim mais organizado e visual. Além disso, o manuseio de programas que permitam testar as requisições que estão sendo construídas.   
+
 * API REST
   * dsa
