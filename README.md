@@ -87,7 +87,11 @@
   * Foram apresentadas boas práticas para os projetos, tanto para projetos solo como em equipes. As principais boas práticas partem da organização que você tem com seu código e com claro e objetivo é ele, utilização de _commits_ que explicam o que foi feito e não algo de modo genérico.
   * Utilizar o _Readme_ do projeto de modo que fique claro o que é o projeto, para que serve, como será construído e se possuí alguma inspiração para sua criação.
 * Comunicação
-  * dsa
+  * A forma que a comunição ocorre precisa estar de acordo com o ambiente destinado, caso seja um ambiente recreatido ou de lazer é possível utilizar uma linguagem descontraído, mas em ambiente profissional é importante manter um equilíbrio entre o formal e não parecer um robo.
+  * Da mesma maneira que a comunicação verbal precisa se adaptar, a comunição verbal precisa também se adequar.
+  * Utilizar a comunicação não-violenta diminui as chances de brigas, estresses ou desavenças no ambiente de trabalho. Além disso, permite gerar empatia e respeito com o próximo.
+  * Deixar claro o que deseja e precisa ser feito, desse modo não ocorre achismos.
+  * Acordos verbais são mais práticos, mas registrar por email permite identificar o que realmente foi proposto e se foi devidamente realizado.
 * Pesquisa e leitura de documentações
 * Autoconhecimento e Inteligência Emocional
 * Tendências em tecnologia
