@@ -24,11 +24,11 @@
 * GitHub
   * É uma plataforma que serve como portfólio dos projetos realizados pela própria pessoa. Além de divulgar seus projetos é possível colaborar com projetos de terceiros, como também terceiros participando do seus projetos.
 * Comunicação
-* .
+  * Maneira de transmitir uma informação de forma clara e direta para não haver confusão entre o que foi dito e o que foi entendido.
 * Pesquisa e leitura de documentações
-* .
+  * .
 * Autoconhecimento e Inteligência Emocional
-* .
+  * .
 * Tendências em tecnologia
   * Linguagens ou ferramentas que estão ganhando certa popularidade ou prometem facilitar ou melhorar aquilo que já está em uso pelos usuários. 
     
@@ -42,6 +42,7 @@
 * API REST
   * .
 * Orientação a Objetos
+  * .
 * API REST Prática com Orientação a Objetos
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
@@ -54,7 +55,9 @@
   * Entender melhor as aplicações de como utilizar o GitHub.
   * Aprender as práticas mais técnicas da plataforma.
 * Comunicação
-  * .
+  * Aprender a criar uma comunicação clara sem ruídos.
+  * Como lidar com falhas da comunicação.
+  * Compreender e ser compreendido no ambiente profissional para melhor convivência.
 * Pesquisa e leitura de documentações
 * Autoconhecimento e Inteligência Emocional
 * Tendências em tecnologia
