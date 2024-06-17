@@ -4,12 +4,20 @@
 ### Carreira:
 * GitHub
 * Tendências em tecnologia
+* Pesquisa e leitura de documentações
+* Autoconhecimento e Inteligência Emocional
+* Tendências em tecnologia
 
 ### Back-end:
 * Testes Automatizados
 * Primeiro Servidor
 * Rotas, Intermediários e Controladores
 * API REST
+* Orientação a Objetos
+* API REST Prática com Orientação a Objetos
+* Assincronismo e Leitura e Escrita em Arquivos
+* Prática de API com Assincronismo e Testes
+* Tratamento de erros com Herança e Polimorfismo
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 ### Carreira:
@@ -35,7 +43,10 @@
   * Entender melhor as aplicações de como utilizar o GitHub.
   * Aprender as práticas mais técnicas da plataforma.
 * Tendências em tecnologia
-  * Quero conhecer o que está em alta, o que promete revolucionar ou facilitar a vida do usuário. Se há locais que são mais propícios a gerar ou utilizar essas tendencias. 
+  * Quero conhecer o que está em alta, o que promete revolucionar ou facilitar a vida do usuário. Se há locais que são mais propícios a gerar ou utilizar essas tendencias.
+* Pesquisa e leitura de documentações
+* Autoconhecimento e Inteligência Emocional
+* Tendências em tecnologia
     
 ### Back-end:
 * Testes Automatizados
@@ -46,7 +57,12 @@
   * Espero compreender o que realmente é Rota, Intermediários e Controladores.
   * Entender as funcionalidades de cada item e como aplicar os mesmos da melhor forma possível. 
 * API REST
-  * dsa
+  * ds
+* Orientação a Objetos
+* API REST Prática com Orientação a Objetos
+* Assincronismo e Leitura e Escrita em Arquivos
+* Prática de API com Assincronismo e Testes
+* Tratamento de erros com Herança e Polimorfismo
  
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 ### Carreira:
@@ -57,6 +73,9 @@
   * Utilizar o _Readme_ do projeto de modo que fique claro o que é o projeto, para que serve, como será construído e se possuí alguma inspiração para sua criação.
 * Tendências em tecnologia
   * dsa
+* Pesquisa e leitura de documentações
+* Autoconhecimento e Inteligência Emocional
+* Tendências em tecnologia
     
 ### Back-end:
 * Testes Automatizados
@@ -72,3 +91,8 @@
 
 * API REST
   * dsa
+* Orientação a Objetos
+* API REST Prática com Orientação a Objetos
+* Assincronismo e Leitura e Escrita em Arquivos
+* Prática de API com Assincronismo e Testes
+* Tratamento de erros com Herança e Polimorfismo
