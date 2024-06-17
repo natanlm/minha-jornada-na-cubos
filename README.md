@@ -40,7 +40,7 @@
 * Rotas, Intermediários e Controladores
   * Não tenho conhecimento sobre o assunto, mas imagino que seja algo relacionado a algo que crie a ligação entre usuário e o servidor, junto a mecanismos que direcionem e controle isso.
 * API REST
-  * .
+  * Conjunto de instruções para ocorrer a comunicação com um sistema.
 * Orientação a Objetos
   * .
 * API REST Prática com Orientação a Objetos
@@ -72,7 +72,8 @@
   * Espero compreender o que realmente é Rota, Intermediários e Controladores.
   * Entender as funcionalidades de cada item e como aplicar os mesmos da melhor forma possível. 
 * API REST
-  * ds
+  * Entender melhor o que são API's e como ocorrem essas comunicações.
+  * Como trabalhar e organizar para um melhor entendimento.
 * Orientação a Objetos
 * API REST Prática com Orientação a Objetos
 * Assincronismo e Leitura e Escrita em Arquivos
@@ -108,7 +109,10 @@
   * Compreendi o que são Rotas, Intermediários e Controladores. Onde tudo se inicia com a requisição feito do usuário para o servidor que após o processo devolve para o usuário. A requisição feito ao servidor precisa estar de acordar com as rotas disponíveis que encaminham para os controladores correspondentes. Os intermediários atuam como interceptador das requisições, pois protegem ou precisam validar antes de continuar para o controlador.
   * Aprendi a estruturar um servidor de forma mais organizada separando cada item ao seu projeto e apenas importando eles para o principal, deixando assim mais organizado e visual. Além disso, o manuseio de programas que permitam testar as requisições que estão sendo construídas.   
 * API REST
-  * dsa
+  * Compreendi melhor que o é API e qual sua finalidade.
+  * A existência de métodos de requisição e porquê de utilizadlos.
+  * O significado dos códigos de status de resposta e como utilizar.
+  * O desenvolvimento básico de um programa onde foi usado __get__, __post__, __put__, __patch__ e __delete__. Isso tudo permite informar, detalhar, acrescentar, modificar e apagar.
 * Orientação a Objetos
 * API REST Prática com Orientação a Objetos
 * Assincronismo e Leitura e Escrita em Arquivos
