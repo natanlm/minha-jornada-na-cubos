@@ -29,7 +29,8 @@
   * Toda linguagem possui uma documentação feita pelo seu desenvolvedor, onde essa documentação serve para guiar, explicar e mostrar como utilizar a linguagem.
   * A busca pela documentação pode ser feita através do próprio site da linguagem.
 * Autoconhecimento e Inteligência Emocional
-  * .
+  * Autoconhecimento é saber do que a própria pessoa é capaz e seus limites, o que gosta e o que não gosta.
+  * Inteliegente emocional é entender os próprios sentimentos e saber o que afeta e como afeta.
 * Tendências em tecnologia
   * Linguagens ou ferramentas que estão ganhando certa popularidade ou prometem facilitar ou melhorar aquilo que já está em uso pelos usuários. 
     
@@ -62,6 +63,9 @@
 * Pesquisa e leitura de documentações
   * Compreender de modo mais simples como ler a documentação e aplicar como é explicado.
 * Autoconhecimento e Inteligência Emocional
+  * Compreender melhor o que são autoconhecimento e inteligência emocional e como trabalhar para melhorar.
+  * Aprender meios ou técnicas para melhor.
+  * Aprender como lidar com imprevistos que possam impactar negativamente tanto o autoconhecimento e a inteligência emocional. 
 * Tendências em tecnologia
   * Quero conhecer o que está em alta, o que promete revolucionar ou facilitar a vida do usuário. Se há locais que são mais propícios a gerar ou utilizar essas tendencias.
     
