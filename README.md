@@ -26,7 +26,8 @@
 * Comunicação
   * Maneira de transmitir uma informação de forma clara e direta para não haver confusão entre o que foi dito e o que foi entendido.
 * Pesquisa e leitura de documentações
-  * .
+  * Toda linguagem possui uma documentação feita pelo seu desenvolvedor, onde essa documentação serve para guiar, explicar e mostrar como utilizar a linguagem.
+  * A busca pela documentação pode ser feita através do próprio site da linguagem.
 * Autoconhecimento e Inteligência Emocional
   * .
 * Tendências em tecnologia
@@ -59,6 +60,7 @@
   * Como lidar com falhas da comunicação.
   * Compreender e ser compreendido no ambiente profissional para melhor convivência.
 * Pesquisa e leitura de documentações
+  * Compreender de modo mais simples como ler a documentação e aplicar como é explicado.
 * Autoconhecimento e Inteligência Emocional
 * Tendências em tecnologia
   * Quero conhecer o que está em alta, o que promete revolucionar ou facilitar a vida do usuário. Se há locais que são mais propícios a gerar ou utilizar essas tendencias.
