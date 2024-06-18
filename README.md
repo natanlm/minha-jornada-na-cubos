@@ -44,7 +44,7 @@
 * API REST
   * Conjunto de instruções para ocorrer a comunicação com um sistema.
 * Orientação a Objetos
-  * .
+  * Tudo no código é um objeto, acretido que seja uma melhor definição do que é o objeto e como trabalhar importando esse objeto.
 * API REST Prática com Orientação a Objetos
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
@@ -81,6 +81,9 @@
   * Entender melhor o que são API's e como ocorrem essas comunicações.
   * Como trabalhar e organizar para um melhor entendimento.
 * Orientação a Objetos
+  * Compreener o que é Orientação a Objetos.
+  * Aprender a utilizar e como aplicar de maneira correta.
+  * Entender como sua utilização impacta no desenvolvimento de código e em servidor.
 * API REST Prática com Orientação a Objetos
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
