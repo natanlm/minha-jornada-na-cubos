@@ -46,6 +46,7 @@
 * Orientação a Objetos
   * Tudo no código é um objeto, acretido que seja uma melhor definição do que é o objeto e como trabalhar importando esse objeto.
 * API REST Prática com Orientação a Objetos
+  * Imagino que seria colocar em prática a união da Oriantação a Objetos na estrutura de API Rest 
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
 * Tratamento de erros com Herança e Polimorfismo
@@ -85,6 +86,8 @@
   * Aprender a utilizar e como aplicar de maneira correta.
   * Entender como sua utilização impacta no desenvolvimento de código e em servidor.
 * API REST Prática com Orientação a Objetos
+  * Aprender como seria essa união desses dois elementos.
+  * Organizar e demonstrar com clareza esses dois conteúdos.
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
 * Tratamento de erros com Herança e Polimorfismo
@@ -128,6 +131,7 @@
   * Utilizar métodos de funcionalidades que servem para alterar, mas não alteram nada. Há um tipo específico para isso, sendo o _ void_.
   * Utilização dos atributos que podem ser _public_ ou _private_, e como isso impacta no código.
 * API REST Prática com Orientação a Objetos
+  * . 
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
 * Tratamento de erros com Herança e Polimorfismo
