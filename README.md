@@ -123,6 +123,10 @@
   * O significado dos códigos de status de resposta e como utilizar.
   * O desenvolvimento básico de um programa onde foi usado __get__, __post__, __put__, __patch__ e __delete__. Isso tudo permite informar, detalhar, acrescentar, modificar e apagar.
 * Orientação a Objetos
+  * Aprendi que há Classes e atributos
+  * Há utilizar o método _construtor_ e que o termo para sua função é o _this._
+  * Utilizar métodos de funcionalidades que servem para alterar, mas não alteram nada. Há um tipo específico para isso, sendo o _ void_.
+  * Utilização dos atributos que podem ser _public_ ou _private_, e como isso impacta no código.
 * API REST Prática com Orientação a Objetos
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
