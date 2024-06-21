@@ -131,7 +131,8 @@
   * Utilizar métodos de funcionalidades que servem para alterar, mas não alteram nada. Há um tipo específico para isso, sendo o _ void_.
   * Utilização dos atributos que podem ser _public_ ou _private_, e como isso impacta no código.
 * API REST Prática com Orientação a Objetos
-  * . 
+  * Aprendi a implementar a Orientação a Objetos numa API REST
+  * Por ser um exercício prático, senti um reforço em relação à API REST para fixar melhor o assunto e a Orientação a Objetos apenas como um complemento.
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
 * Tratamento de erros com Herança e Polimorfismo
