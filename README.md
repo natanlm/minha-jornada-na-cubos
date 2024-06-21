@@ -106,6 +106,11 @@
   * Deixar claro o que deseja e precisa ser feito, desse modo não ocorre achismos.
   * Acordos verbais são mais práticos, mas registrar por email permite identificar o que realmente foi proposto e se foi devidamente realizado.
 * Pesquisa e leitura de documentações
+  * Existe um grande diferença de linguagens mais antigas para as atuais quando se trata de apresentar a documentação.
+  * O melhor lugar para se entender a linguagem com a qual se trabalha é a própria documentação.
+  * Muitas das dúvidas podem ser pesquisadas em outras fontes, como: YouTube, Reddit, Dev Community, Stack Overflow, entre outros. Contudo, o importante é saber filtrar e como pesquisar.
+  * Foi apresentado uma técnica para uma busca mais assertiva nos pesquisadores, como no Google.
+  * Houve um reforço para o aprendizado na língua inglesa, uma vez que as documentações são em inglês. Mesmo com a opção de traduzir, corre o risco de tradução errado ou mesmo simplificação do tema procurado.
 * Autoconhecimento e Inteligência Emocional
 * Tendências em tecnologia
     
