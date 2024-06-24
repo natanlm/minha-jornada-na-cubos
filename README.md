@@ -48,7 +48,9 @@
 * API REST Prática com Orientação a Objetos
   * Imagino que seria colocar em prática a união da Oriantação a Objetos na estrutura de API Rest 
 * Assincronismo e Leitura e Escrita em Arquivos
+  *  
 * Prática de API com Assincronismo e Testes
+  * Exercícios de fixação aplicando Assincronismo e Testes numa estrutura de API Rest.
 * Tratamento de erros com Herança e Polimorfismo
  
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
@@ -90,6 +92,8 @@
   * Organizar e demonstrar com clareza esses dois conteúdos.
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
+  * Aprender como seria essa união desses dois elementos.
+  * Organizar e demonstrar com clareza esses dois conteúdos.
 * Tratamento de erros com Herança e Polimorfismo
  
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
@@ -136,8 +140,10 @@
   * Utilizar métodos de funcionalidades que servem para alterar, mas não alteram nada. Há um tipo específico para isso, sendo o _ void_.
   * Utilização dos atributos que podem ser _public_ ou _private_, e como isso impacta no código.
 * API REST Prática com Orientação a Objetos
-  * Aprendi a implementar a Orientação a Objetos numa API REST
+  * Aprendi a implementar a Orientação a Objetos numa API Rest.
   * Por ser um exercício prático, senti um reforço em relação à API REST para fixar melhor o assunto e a Orientação a Objetos apenas como um complemento.
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
+  * Aprendi a implementar a Assincronismo e Testes numa API Rest.
+  * Por ser um exercício prático, senti um reforço em relação à API REST para fixar melhor o assunto e a Orientação a Objetos apenas como um complemento.
 * Tratamento de erros com Herança e Polimorfismo
