@@ -48,7 +48,8 @@
 * API REST Prática com Orientação a Objetos
   * Imagino que seria colocar em prática a união da Oriantação a Objetos na estrutura de API Rest 
 * Assincronismo e Leitura e Escrita em Arquivos
-  *  
+  *  Nunca vi nada à respeito do assunto.
+  *  A única coisa que consigo imaginar que seria algo de sincronização de arquivos para evitar a possibilidade de erros por mudanças feitas em um arquivo e esquecido em outro.
 * Prática de API com Assincronismo e Testes
   * Exercícios de fixação aplicando Assincronismo e Testes numa estrutura de API Rest.
 * Tratamento de erros com Herança e Polimorfismo
@@ -91,6 +92,9 @@
   * Aprender como seria essa união desses dois elementos.
   * Organizar e demonstrar com clareza esses dois conteúdos.
 * Assincronismo e Leitura e Escrita em Arquivos
+  * Entender o que é assincronismo e como executá-lo.
+  * Aprender de modo simples como aplicar no código.
+  * Como elaborar melhor quando há muitos requisitos para a funcionalidade do código.
 * Prática de API com Assincronismo e Testes
   * Aprender como seria essa união desses dois elementos.
   * Organizar e demonstrar com clareza esses dois conteúdos.
