@@ -147,6 +147,11 @@
   * Aprendi a implementar a Orientação a Objetos numa API Rest.
   * Por ser um exercício prático, senti um reforço em relação à API REST para fixar melhor o assunto e a Orientação a Objetos apenas como um complemento.
 * Assincronismo e Leitura e Escrita em Arquivos
+  * Aprendi o que significa o que é Assincronismo e porque da sua utilização.
+  * A diferença de Sincronismo e Assincronismo.
+  * A como usar o _async: await_ em uma API.
+  * Não ter más práticas na criação de código devido a utilização do _.then_ que pode deixar inutilizável o código devido ao seu tamanho no aninhamento.
+  * A usar e corrigir erro com assincronismo.
 * Prática de API com Assincronismo e Testes
   * Aprendi a implementar a Assincronismo e Testes numa API Rest.
   * Por ser um exercício prático, senti um reforço em relação à API REST para fixar melhor o assunto e a Orientação a Objetos apenas como um complemento.
