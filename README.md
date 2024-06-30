@@ -120,6 +120,10 @@
   * Foi apresentado uma técnica para uma busca mais assertiva nos pesquisadores, como no Google.
   * Houve um reforço para o aprendizado na língua inglesa, uma vez que as documentações são em inglês. Mesmo com a opção de traduzir, corre o risco de tradução errado ou mesmo simplificação do tema procurado.
 * Autoconhecimento e Inteligência Emocional
+  * Aprendi um pouco mais sobre o que é inteligência emocional.
+  * Os 5 pilares da soft skill.
+  * Identificar o que temos controle e como lidar com adversidades.
+  * Práticas para trabalhar o autoconhecimento.
 * Tendências em tecnologia
     
 ### Back-end:
