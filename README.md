@@ -53,6 +53,7 @@
 * Prática de API com Assincronismo e Testes
   * Exercícios de fixação aplicando Assincronismo e Testes numa estrutura de API Rest.
 * Tratamento de erros com Herança e Polimorfismo
+  * São erros que podem ocorrer ao se ter uma classe. 
  
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 ### Carreira:
@@ -99,6 +100,9 @@
   * Aprender como seria essa união desses dois elementos.
   * Organizar e demonstrar com clareza esses dois conteúdos.
 * Tratamento de erros com Herança e Polimorfismo
+  * Entender o que é Herança e Polimorfismo.
+  * Aprender a corrigir esses erros.
+ 
  
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 ### Carreira:
@@ -160,3 +164,6 @@
   * Aprendi a implementar a Assincronismo e Testes numa API Rest.
   * Por ser um exercício prático, senti um reforço em relação à API REST para fixar melhor o assunto e a Orientação a Objetos apenas como um complemento.
 * Tratamento de erros com Herança e Polimorfismo
+  * Aprendi sobre o que é Herança e Polimorfismo.
+  * Prática em situações que envolvem esses temas.
+  * Como tratar e retornar erros.
