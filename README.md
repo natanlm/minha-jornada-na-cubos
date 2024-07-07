@@ -129,6 +129,13 @@
   * Identificar o que temos controle e como lidar com adversidades.
   * Práticas para trabalhar o autoconhecimento.
 * Tendências em tecnologia
+  * Existem muitos mitos e promessas de revoluções.
+  * Como identificar a versão da linguagem, seu pacote de atualização e a correção de _bugs_.
+  * Cada linguagem possui uma facilidade em uma área determinada da programação.
+  * Não é necessário desespero ou urgência para aprender a versão recém lançado, pois leva tempo para o mercado aderir essa versão.
+  * O mercado não acompanha a área de desenvolvimento, pois há muitos sistemas já implementados e consolidados há anos, mudar eles por completo exige muito tempo e investimento, portanto muitos sistemas ainda se encontram com versões muito antigas de linguagens.
+  * Existem muitas linguagens que surgem com o objetivo de substituir determinada linguagem, contudo isso não ocorre devido aos motivos do tópico acima.
+  * O melhor lugar para se manter atualizado é a documentaçãdo oficial da linguagem, pois é o primeiro lugar a ser atualizado, mas também é possível por meio de livros, eventos ou mesmo certificações.
     
 ### Back-end:
 * Testes Automatizados
