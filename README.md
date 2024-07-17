@@ -1,14 +1,17 @@
-# Desafio de Carreira - M03
-
-## Conteúdos a serem trabalhados nesse módulo:
-### Carreira:
+## Desafio de Carreira - M03
+<details >
+ 
+### Conteúdos a serem trabalhados nesse módulo:
+<details >
+ 
+#### Carreira:
 * GitHub
 * Comunicação
 * Pesquisa e leitura de documentações
 * Autoconhecimento e Inteligência Emocional
 * Tendências em tecnologia
 
-### Back-end:
+#### Back-end:
 * Testes Automatizados
 * Primeiro Servidor
 * Rotas, Intermediários e Controladores
@@ -18,9 +21,13 @@
 * Assincronismo e Leitura e Escrita em Arquivos
 * Prática de API com Assincronismo e Testes
 * Tratamento de erros com Herança e Polimorfismo
+</details>
 
-## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
-### Carreira:
+
+### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+<details >
+ 
+#### Carreira:
 * GitHub
   * É uma plataforma que serve como portfólio dos projetos realizados pela própria pessoa. Além de divulgar seus projetos é possível colaborar com projetos de terceiros, como também terceiros participando do seus projetos.
 * Comunicação
@@ -34,7 +41,7 @@
 * Tendências em tecnologia
   * Linguagens ou ferramentas que estão ganhando certa popularidade ou prometem facilitar ou melhorar aquilo que já está em uso pelos usuários. 
     
-### Back-end:
+#### Back-end:
 * Testes Automatizados
   * Etapa para criar e verificar se os testes aplicados estão aprovados ou não.
 * Primeiro Servidor
@@ -54,9 +61,12 @@
   * Exercícios de fixação aplicando Assincronismo e Testes numa estrutura de API Rest.
 * Tratamento de erros com Herança e Polimorfismo
   * São erros que podem ocorrer ao se ter uma classe. 
- 
-## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
-### Carreira:
+</details > 
+
+### O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+<details >
+
+#### Carreira:
 * GitHub
   * Aprender a desenvolver um perfil(Readme) mais profissional.
   * Entender melhor as aplicações de como utilizar o GitHub.
@@ -74,7 +84,7 @@
 * Tendências em tecnologia
   * Quero conhecer o que está em alta, o que promete revolucionar ou facilitar a vida do usuário. Se há locais que são mais propícios a gerar ou utilizar essas tendencias.
     
-### Back-end:
+#### Back-end:
 * Testes Automatizados
   * Entender o que é e para que serve a realização de testes automatizados, como também a utilizar da melhor forma possível e onde aplicar no código/projeto a utilização dos testes.
 * Primeiro Servidor
@@ -102,10 +112,12 @@
 * Tratamento de erros com Herança e Polimorfismo
   * Entender o que é Herança e Polimorfismo.
   * Aprender a corrigir esses erros.
+</details > 
  
- 
-## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
-### Carreira:
+### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+<details >
+
+#### Carreira:
 * GitHub
   * O GitHub é uma plataforma que serve como cartão de entrada para recrutadores ou pessoas da área _tech_, como um currículo é preciso ter informações sucintas e claras: quem é você; no que você trabalho; suas habilidades; contatos e afins.
   * A própria plataforma possui um mecânismo que deixa vísivel o quanto você contribiu desde a criação da sua conta. Entretanto, essas contribuições não se limitam apenas aos seus próprios projetos ou o desenvolvimentos de códigos, como contribuir com projetos _Open Source_ permitem que o mostrador registre suas contribuições.
@@ -137,7 +149,7 @@
   * Existem muitas linguagens que surgem com o objetivo de substituir determinada linguagem, contudo isso não ocorre devido aos motivos do tópico acima.
   * O melhor lugar para se manter atualizado é a documentaçãdo oficial da linguagem, pois é o primeiro lugar a ser atualizado, mas também é possível por meio de livros, eventos ou mesmo certificações.
     
-### Back-end:
+#### Back-end:
 * Testes Automatizados
   * É uma aplicação de realização de teste automatizados onde é utilizado uma biblioteca como a jest e ela insere valores aleatórios para validar o código. Para isso é necessário criar um arquivo que realize os testes.
   * Foi aprendido a criar um arquivo que exclui arquivos para não serem comentados e não entrarem no GitHub
@@ -174,3 +186,5 @@
   * Aprendi sobre o que é Herança e Polimorfismo.
   * Prática em situações que envolvem esses temas.
   * Como tratar e retornar erros.
+</details >
+</details>
