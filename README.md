@@ -256,12 +256,12 @@
 <details >
  
 #### Carreira:
-* GitHub
+* Metodologias ágeis
 
 
 #### Back-end:
-* Testes Automatizados
-* Primeiro Servidor
+* Introdução ao Docker e Docker compose
+* Introdução a Banco de Dados
 
 </details>
 
@@ -270,38 +270,41 @@
 <details >
  
 #### Carreira:
-* GitHub
-  * É uma plataforma que serve como portfólio dos projetos realizados pela própria pessoa. Além de divulgar seus projetos é possível colaborar com projetos de terceiros, como também terceiros participando do seus projetos.
+* Metodologias ágeis
+  * sasasa
 
 #### Back-end:
-* Testes Automatizados
-  * Etapa para criar e verificar se os testes aplicados estão aprovados ou não.
-
+* Introdução ao Docker e Docker compose
+  * ddasd 
+* Introdução a Banco de Dados
+  * dsadas
 </details > 
 
 ### O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 <details >
 
 #### Carreira:
-* GitHub
-  * Aprender a desenvolver um perfil(Readme) mais profissional.
+* Metodologias ágeis
+  * sasasa
    
 #### Back-end:
-* Testes Automatizados
-  * Entender o que é e para que serve a realização de testes automatizados, como também a utilizar da melhor forma possível e onde aplicar no código/projeto a utilização dos testes.
-
+* Introdução ao Docker e Docker compose
+  * dsd
+* Introdução a Banco de Dados
+  * dsad
 </details > 
  
 ### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 <details >
 
 #### Carreira:
-* GitHub
-  * O GitHub é uma plataforma que serve como cartão de entrada para recrutadores ou pessoas da área _tech_, como um currículo é preciso ter informações sucintas e claras: quem é você; no que você trabalho; suas habilidades; contatos e afins.
-
+* Metodologias ágeis
+  * sasasa
+  * 
 #### Back-end:
-* Testes Automatizados
-  * É uma aplicação de realização de teste automatizados onde é utilizado uma biblioteca como a jest e ela insere valores aleatórios para validar o código. Para isso é necessário criar um arquivo que realize os testes.
-
+* Introdução ao Docker e Docker compose
+  * dsd
+* Introdução a Banco de Dados
+  * dsad
 </details >
 </details>
