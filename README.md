@@ -271,7 +271,7 @@
  
 #### Carreira:
 * Metodologias ágeis
-  * sasasa
+  * Acredito que seja relacionado a sistemas como Kanban, Scrum, Duplo Diamente ou outro, sendo para otimizar tarefas quando trabalhadas em time desde a fase inicial até a final.
 
 #### Back-end:
 * Introdução ao Docker e Docker compose
@@ -285,13 +285,17 @@
 
 #### Carreira:
 * Metodologias ágeis
-  * sasasa
+  * Entender quais metologias ágeis existem.
+  * Aprender a importância e o motivo para a escolha de cada metodologia.
+  * Como aplicá-las no dia a dia para ter um maior proveito de tempo e produtividade quando trato de projeto.
    
 #### Back-end:
 * Introdução ao Docker e Docker compose
   * dsd
 * Introdução a Banco de Dados
   * dsad
+ 
+ 
 </details > 
  
 ### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
@@ -300,7 +304,8 @@
 #### Carreira:
 * Metodologias ágeis
   * sasasa
-  * 
+ 
+ 
 #### Back-end:
 * Introdução ao Docker e Docker compose
   * dsd
