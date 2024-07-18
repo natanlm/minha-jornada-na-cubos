@@ -1,3 +1,62 @@
+## Módulo 02
+<details >
+ 
+### Conteúdos a serem trabalhados nesse módulo:
+<details >
+ 
+#### Carreira:
+* GitHub
+
+
+#### Back-end:
+* Testes Automatizados
+
+</details>
+
+
+### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+<details >
+ 
+#### Carreira:
+* GitHub
+  * É uma plataforma que serve como portfólio dos projetos realizados pela própria pessoa. Além de divulgar seus projetos é possível colaborar com projetos de terceiros, como também terceiros participando do seus projetos.
+
+#### Back-end:
+* Testes Automatizados
+  * Etapa para criar e verificar se os testes aplicados estão aprovados ou não.
+
+</details > 
+
+### O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+<details >
+
+#### Carreira:
+* GitHub
+  * Aprender a desenvolver um perfil(Readme) mais profissional.
+  * Entender melhor as aplicações de como utilizar o GitHub.
+  * Aprender as práticas mais técnicas da plataforma.
+
+#### Back-end:
+* Testes Automatizados
+  * Entender o que é e para que serve a realização de testes automatizados, como também a utilizar da melhor forma possível e onde aplicar no código/projeto a utilização dos testes.
+
+</details > 
+ 
+### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+<details >
+
+#### Carreira:
+* GitHub
+  * O GitHub é uma plataforma que serve como cartão de entrada para recrutadores ou pessoas da área _tech_, como um currículo é preciso ter informações sucintas e claras: quem é você; no que você trabalho; suas habilidades; contatos e afins.
+
+#### Back-end:
+* Testes Automatizados
+  * É uma aplicação de realização de teste automatizados onde é utilizado uma biblioteca como a jest e ela insere valores aleatórios para validar o código. Para isso é necessário criar um arquivo que realize os testes.
+
+</details >
+</details>
+
+
 ## Desafio de Carreira - M03
 <details >
  
@@ -186,5 +245,63 @@
   * Aprendi sobre o que é Herança e Polimorfismo.
   * Prática em situações que envolvem esses temas.
   * Como tratar e retornar erros.
+</details >
+</details>
+
+
+## Módulo 04
+<details >
+ 
+### Conteúdos a serem trabalhados nesse módulo:
+<details >
+ 
+#### Carreira:
+* GitHub
+
+
+#### Back-end:
+* Testes Automatizados
+* Primeiro Servidor
+
+</details>
+
+
+### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+<details >
+ 
+#### Carreira:
+* GitHub
+  * É uma plataforma que serve como portfólio dos projetos realizados pela própria pessoa. Além de divulgar seus projetos é possível colaborar com projetos de terceiros, como também terceiros participando do seus projetos.
+
+#### Back-end:
+* Testes Automatizados
+  * Etapa para criar e verificar se os testes aplicados estão aprovados ou não.
+
+</details > 
+
+### O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+<details >
+
+#### Carreira:
+* GitHub
+  * Aprender a desenvolver um perfil(Readme) mais profissional.
+   
+#### Back-end:
+* Testes Automatizados
+  * Entender o que é e para que serve a realização de testes automatizados, como também a utilizar da melhor forma possível e onde aplicar no código/projeto a utilização dos testes.
+
+</details > 
+ 
+### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+<details >
+
+#### Carreira:
+* GitHub
+  * O GitHub é uma plataforma que serve como cartão de entrada para recrutadores ou pessoas da área _tech_, como um currículo é preciso ter informações sucintas e claras: quem é você; no que você trabalho; suas habilidades; contatos e afins.
+
+#### Back-end:
+* Testes Automatizados
+  * É uma aplicação de realização de teste automatizados onde é utilizado uma biblioteca como a jest e ela insere valores aleatórios para validar o código. Para isso é necessário criar um arquivo que realize os testes.
+
 </details >
 </details>
