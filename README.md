@@ -275,7 +275,7 @@
 
 #### Back-end:
 * Introdução ao Docker e Docker compose
-  * ddasd 
+  * Sobre esse assunto eu não possuo conhecimento prévio. 
 * Introdução a Banco de Dados
   * dsadas
 </details > 
@@ -291,7 +291,8 @@
    
 #### Back-end:
 * Introdução ao Docker e Docker compose
-  * dsd
+  * Entender o que é Docker e Docker compose.
+  * Aprender a utilizar e como aplicar no dia a dia.
 * Introdução a Banco de Dados
   * dsad
  
