@@ -277,7 +277,7 @@
 * Introdução ao Docker e Docker compose
   * Sobre esse assunto eu não possuo conhecimento prévio. 
 * Introdução a Banco de Dados
-  * dsadas
+  * Banco de dados é um sistema utilizado para armazenar as informações do usuário, indo de um simples cadastro em site como cadastro de banco.
 </details > 
 
 ### O que quero aprender sobre os assuntos que serão abordados nesse módulo?
@@ -294,7 +294,9 @@
   * Entender o que é Docker e Docker compose.
   * Aprender a utilizar e como aplicar no dia a dia.
 * Introdução a Banco de Dados
-  * dsad
+  * Entender o que é Banco de Dados e como funciona.
+  * Como preparar e configurar para se trabalhar com banco de dados.
+  * Saber como conecta com o Docker.
  
  
 </details > 
@@ -313,6 +315,10 @@
   * Realizei a instalação do Docker e após isso realizar testes simples para ver como funciona na prática.
   * Existe o Docker Hub que funciona como um Github e possível imagens já prontas que facilitam o trabalho.
 * Introdução a Banco de Dados
-  * dsad
+  * Aprendi sobre Banco de Dados que há tipos: relacional; não-relacional; distribuido; warehouse e cloud.
+  * Banco de dados relacional pode ser comparado ao Excel por ser trabalhado em planilha.
+  * Fui apresentado ao SQL que serva para interagir com o banco de dados e SGBD que serva para armazenar e organizar dados.
+  * Há alguns SGBDs no mercado: Postgres, Oracle, mongoDB.
+  * Instalação do Beekeeper que serve para editar e gerenciar SQL.
 </details >
 </details>
