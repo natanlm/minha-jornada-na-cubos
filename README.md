@@ -306,7 +306,11 @@
 
 #### Carreira:
 * Metodologias ágeis
-  * sasasa
+  * Fui apresentado a Metodologia agil e sua definição, o porque de utilizar quando se trabalha em equipe.
+  * O principal fator de utilizar é evidênciar o que todos da equipe estão fazendo no momento e em qual etapa está tal tarefa.
+  * A utilização da metodoligia permite corrigir erros e realizar mudanças caso seja necessário.
+  * Há diferentes metodologias, como: Kanban, Scrum e XP.
+  * Não há melhor ou pior, só aquela que se enquadre melhor a sua equipe ou projeto.
  
  
 #### Back-end:
