@@ -309,7 +309,9 @@
  
 #### Back-end:
 * Introdução ao Docker e Docker compose
-  * dsd
+  * Aprendi que Docker é uma ferramenta que permite empacotar aplicações em containers. Já Docker compose é para definir e gerenciar múltiplos containers como um único serviço.
+  * Realizei a instalação do Docker e após isso realizar testes simples para ver como funciona na prática.
+  * Existe o Docker Hub que funciona como um Github e possível imagens já prontas que facilitam o trabalho.
 * Introdução a Banco de Dados
   * dsad
 </details >
