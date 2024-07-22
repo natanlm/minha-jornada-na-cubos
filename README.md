@@ -319,11 +319,14 @@
  
 #### Carreira:
 * Metodologias ágeis
+* Diversidade e inclusão em tecnologia
 
 
 #### Back-end:
 * Introdução ao Docker e Docker compose
 * Introdução a Banco de Dados
+* Consultas SQL
+* Modelagem de dados
 
 </details>
 
@@ -334,12 +337,16 @@
 #### Carreira:
 * Metodologias ágeis
   * Acredito que seja relacionado a sistemas como Kanban, Scrum, Duplo Diamente ou outro, sendo para otimizar tarefas quando trabalhadas em time desde a fase inicial até a final.
+* Diversidade e inclusão em tecnologia
 
 #### Back-end:
 * Introdução ao Docker e Docker compose
   * Sobre esse assunto eu não possuo conhecimento prévio. 
 * Introdução a Banco de Dados
   * Banco de dados é um sistema utilizado para armazenar as informações do usuário, indo de um simples cadastro em site como cadastro de banco.
+* Consultas SQL
+* Modelagem de dados
+
 </details > 
 
 ### O que quero aprender sobre os assuntos que serão abordados nesse módulo?
@@ -350,6 +357,7 @@
   * Entender quais metologias ágeis existem.
   * Aprender a importância e o motivo para a escolha de cada metodologia.
   * Como aplicá-las no dia a dia para ter um maior proveito de tempo e produtividade quando trato de projeto.
+* Diversidade e inclusão em tecnologia
    
 #### Back-end:
 * Introdução ao Docker e Docker compose
@@ -359,6 +367,9 @@
   * Entender o que é Banco de Dados e como funciona.
   * Como preparar e configurar para se trabalhar com banco de dados.
   * Saber como conecta com o Docker.
+* Consultas SQL
+* Modelagem de dados
+
  
  
 </details > 
@@ -373,6 +384,7 @@
   * A utilização da metodoligia permite corrigir erros e realizar mudanças caso seja necessário.
   * Há diferentes metodologias, como: Kanban, Scrum e XP.
   * Não há melhor ou pior, só aquela que se enquadre melhor a sua equipe ou projeto.
+* Diversidade e inclusão em tecnologia
  
  
 #### Back-end:
@@ -386,5 +398,8 @@
   * Fui apresentado ao SQL que serva para interagir com o banco de dados e SGBD que serva para armazenar e organizar dados.
   * Há alguns SGBDs no mercado: Postgres, Oracle, mongoDB.
   * Instalação do Beekeeper que serve para editar e gerenciar SQL.
+* Consultas SQL
+* Modelagem de dados
+
 </details >
 </details>
