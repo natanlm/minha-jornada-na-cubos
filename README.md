@@ -345,6 +345,7 @@
 * Introdução a Banco de Dados
   * Banco de dados é um sistema utilizado para armazenar as informações do usuário, indo de um simples cadastro em site como cadastro de banco.
 * Consultas SQL
+  * Com um banco de dados construído, seria a consulta a uma informação ou um conjunto de informações. Tudo isso por meio de palavras-chave que servem para realizar esse comando.
 * Modelagem de dados
 
 </details > 
@@ -368,6 +369,10 @@
   * Como preparar e configurar para se trabalhar com banco de dados.
   * Saber como conecta com o Docker.
 * Consultas SQL
+  * Aprender a realizar consultas de um item ou um conjunto de itens.
+  * Saber utilizar corretamente as palavras-chave para cada necessiade.
+  * Criar filtros para faciltar as consultas.
+  * Lidar com os diferentes tipos: _string_, _number_, _boolean_ e _data_.
 * Modelagem de dados
 
  
