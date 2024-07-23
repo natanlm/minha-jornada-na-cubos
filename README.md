@@ -404,6 +404,13 @@
   * Há alguns SGBDs no mercado: Postgres, Oracle, mongoDB.
   * Instalação do Beekeeper que serve para editar e gerenciar SQL.
 * Consultas SQL
+  * Existem palavras nomeadas que servem para realizar determinadas funçãos: _SELECT_, _WHERE_, _ORDER BY_, _LIMIT_, _OFFSET_, _SELECT DISTINCT_. Essas palavras tem as funções de mostrar o que quer, filtragem de busca, criar uma ordenação, limitar o tanto que quer mostrar, criar um recorte a partir de um determinado valor, mostrar eliminando duplicidade.
+  * É possível utilizar _asc_ e _desc_ para definir uma ordenação.
+  * A utilização de _like_ na filtragem trás o valor igual, já o _ilike_ indifere se é maiúscula ou minúscula.
+  * É possível utilizar operações de matemáticas para filtragem.
+  * Transformar _number_ em _string_.
+Existem diferentes tipos de formas para se trabalhar com datas, pode ser: apenas horário, com mês, com fuso-horário, data em algarismo ou escrita e outras formas.
+ 
 * Modelagem de dados
 
 </details >
