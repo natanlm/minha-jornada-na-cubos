@@ -347,6 +347,7 @@
 * Consultas SQL
   * Com um banco de dados construído, seria a consulta a uma informação ou um conjunto de informações. Tudo isso por meio de palavras-chave que servem para realizar esse comando.
 * Modelagem de dados
+  * Serve para trabalhar com diferentes tipos de dados e reuni-los em um determinado local, ou mesmo transformar esses dados para melhor adequar-se à sua necessidade. 
 
 </details > 
 
@@ -374,9 +375,13 @@
   * Criar filtros para faciltar as consultas.
   * Lidar com os diferentes tipos: _string_, _number_, _boolean_ e _data_.
 * Modelagem de dados
+  * Entender o que realmente é modelagem de dados.
+  * Compreender as melhores formas de se trabalhar e como demonstrar isso.
+  * Explorar mais afundo os tipos de dados que podem se utilizados e em quais momentos.
+  * Criar banco de dados utilizando essa modelagem.
 
- 
- 
+  
+
 </details > 
  
 ### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
@@ -409,9 +414,9 @@
   * A utilização de _like_ na filtragem trás o valor igual, já o _ilike_ indifere se é maiúscula ou minúscula.
   * É possível utilizar operações de matemáticas para filtragem.
   * Transformar _number_ em _string_.
-Existem diferentes tipos de formas para se trabalhar com datas, pode ser: apenas horário, com mês, com fuso-horário, data em algarismo ou escrita e outras formas.
- 
+  * Existem diferentes tipos de formas para se trabalhar com datas, pode ser: apenas horário, com mês, com fuso-horário, data em algarismo ou escrita e outras formas.
 * Modelagem de dados
-
+  * fdsfds
+ 
 </details >
 </details>
