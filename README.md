@@ -338,6 +338,7 @@
 * Metodologias ágeis
   * Acredito que seja relacionado a sistemas como Kanban, Scrum, Duplo Diamente ou outro, sendo para otimizar tarefas quando trabalhadas em time desde a fase inicial até a final.
 * Diversidade e inclusão em tecnologia
+  * Nos últimos anos, a área da tecnologia recebeu mais diversidade do que em outros áreas compostas principalmente por homens héteros brancos e não é uma área com tantos preconceitos  
 
 #### Back-end:
 * Introdução ao Docker e Docker compose
@@ -360,6 +361,10 @@
   * Aprender a importância e o motivo para a escolha de cada metodologia.
   * Como aplicá-las no dia a dia para ter um maior proveito de tempo e produtividade quando trato de projeto.
 * Diversidade e inclusão em tecnologia
+  * Entender como a inclusão favorece a diversidade.
+  * Por que há pouca diversidade no mercado em geral.
+  * Como a tecnlologia contribui para a inclusão e diversidade.
+ 
    
 #### Back-end:
 * Introdução ao Docker e Docker compose
@@ -395,6 +400,10 @@
   * Há diferentes metodologias, como: Kanban, Scrum e XP.
   * Não há melhor ou pior, só aquela que se enquadre melhor a sua equipe ou projeto.
 * Diversidade e inclusão em tecnologia
+  * A tecnologia permite incluir, facilitar ou até mesmos solucionar uma necessidade básica de um grupo de pessoas que possuem algum tipo de limitação, como um simples mecânismo para subir escadas ou realizar uma compra sendo deficiênte visual.
+  * Por muito tempo o mercado de trabalho em geral era predominantemente dominado por homens brancos heteros. Essa associação pode ser relacionada com a facilidade de obter estudo.
+  * A diversidade é concentrada na base da empresa e a medida que os cargos se elevam, mais filtros são postos até quase sempre chegar no homem branco hetero.
+  * A diversidade permite a contribuição de outras visões e vivências para entender as necessidades de todo um grupo e não apenas de uma parcela, isso em um projeto permite eliminar problemas que só descobririam posteriormente. 
  
  
 #### Back-end:
