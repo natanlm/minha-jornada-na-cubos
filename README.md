@@ -354,6 +354,7 @@
 * Modelagem de dados
   * Serve para trabalhar com diferentes tipos de dados e reuni-los em um determinado local, ou mesmo transformar esses dados para melhor adequar-se à sua necessidade. 
 * CRUD SQL
+  * Imagino que sejo outro tipo de banco de dados por ser SQL
 * Agrupamento e Relacionamentos entre Tabelas
 
 </details > 
@@ -392,6 +393,10 @@
   * Explorar mais afundo os tipos de dados que podem se utilizados e em quais momentos.
   * Criar banco de dados utilizando essa modelagem.
 * CRUD SQL
+  * Entender o que é _CRUD SQL_.
+  * Entender qual a finalidade do _CRUD SQL_
+  * Saber como utilizar e como aplicar as melhores práticas.
+  * Saber se há alguma relação com o _Postgres_ e se conecta ao _Beekeeper_. 
 * Agrupamento e Relacionamentos entre Tabelas
 
   
