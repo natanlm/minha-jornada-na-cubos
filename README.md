@@ -425,7 +425,10 @@
   * Transformar _number_ em _string_.
   * Existem diferentes tipos de formas para se trabalhar com datas, pode ser: apenas horário, com mês, com fuso-horário, data em algarismo ou escrita e outras formas.
 * Modelagem de dados
-  * fdsfds
+  * Fui apresentado ao _Navicat_, que é um programa facilitador para a criação do banco de dados e permite de modo visual saber o que esta sendo feito.
+  * Aprendi sobre _Constraints_ e como elas são aplicadas na criação do banco de dados. Podendo ser: _Primary key_: identificador único em cada registro; _Foreign key_: referencia a chave primária com outra tabela; _Unique_: define um campo com valor único impedindo repetições;e _Not null_: impede que receba valor nulo.
+  * Dentro do _Navicat_ há um campo que gera automaticamente todo o código até então desenvolvido, no qual você pode copiá-lo e aplicar diretamente no _Beekeeper_.
+
  
 </details >
 </details>
