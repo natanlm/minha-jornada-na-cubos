@@ -320,6 +320,7 @@
 #### Carreira:
 * Metodologias ágeis
 * Diversidade e inclusão em tecnologia
+* Marca Pessoal e Plano de Carreira
 
 
 #### Back-end:
@@ -327,6 +328,8 @@
 * Introdução a Banco de Dados
 * Consultas SQL
 * Modelagem de dados
+* CRUD SQL
+* Agrupamento e Relacionamentos entre Tabelas
 
 </details>
 
@@ -339,6 +342,7 @@
   * Acredito que seja relacionado a sistemas como Kanban, Scrum, Duplo Diamente ou outro, sendo para otimizar tarefas quando trabalhadas em time desde a fase inicial até a final.
 * Diversidade e inclusão em tecnologia
   * Nos últimos anos, a área da tecnologia recebeu mais diversidade do que em outros áreas compostas principalmente por homens héteros brancos e não é uma área com tantos preconceitos  
+* Marca Pessoal e Plano de Carreira
 
 #### Back-end:
 * Introdução ao Docker e Docker compose
@@ -349,6 +353,8 @@
   * Com um banco de dados construído, seria a consulta a uma informação ou um conjunto de informações. Tudo isso por meio de palavras-chave que servem para realizar esse comando.
 * Modelagem de dados
   * Serve para trabalhar com diferentes tipos de dados e reuni-los em um determinado local, ou mesmo transformar esses dados para melhor adequar-se à sua necessidade. 
+* CRUD SQL
+* Agrupamento e Relacionamentos entre Tabelas
 
 </details > 
 
@@ -364,6 +370,7 @@
   * Entender como a inclusão favorece a diversidade.
   * Por que há pouca diversidade no mercado em geral.
   * Como a tecnlologia contribui para a inclusão e diversidade.
+* Marca Pessoal e Plano de Carreira
  
    
 #### Back-end:
@@ -384,6 +391,8 @@
   * Compreender as melhores formas de se trabalhar e como demonstrar isso.
   * Explorar mais afundo os tipos de dados que podem se utilizados e em quais momentos.
   * Criar banco de dados utilizando essa modelagem.
+* CRUD SQL
+* Agrupamento e Relacionamentos entre Tabelas
 
   
 
@@ -404,6 +413,7 @@
   * Por muito tempo o mercado de trabalho em geral era predominantemente dominado por homens brancos heteros. Essa associação pode ser relacionada com a facilidade de obter estudo.
   * A diversidade é concentrada na base da empresa e a medida que os cargos se elevam, mais filtros são postos até quase sempre chegar no homem branco hetero.
   * A diversidade permite a contribuição de outras visões e vivências para entender as necessidades de todo um grupo e não apenas de uma parcela, isso em um projeto permite eliminar problemas que só descobririam posteriormente. 
+* Marca Pessoal e Plano de Carreira
  
  
 #### Back-end:
@@ -428,6 +438,8 @@
   * Fui apresentado ao _Navicat_, que é um programa facilitador para a criação do banco de dados e permite de modo visual saber o que esta sendo feito.
   * Aprendi sobre _Constraints_ e como elas são aplicadas na criação do banco de dados. Podendo ser: _Primary key_: identificador único em cada registro; _Foreign key_: referencia a chave primária com outra tabela; _Unique_: define um campo com valor único impedindo repetições;e _Not null_: impede que receba valor nulo.
   * Dentro do _Navicat_ há um campo que gera automaticamente todo o código até então desenvolvido, no qual você pode copiá-lo e aplicar diretamente no _Beekeeper_.
+* CRUD SQL
+* Agrupamento e Relacionamentos entre Tabelas
 
  
 </details >
