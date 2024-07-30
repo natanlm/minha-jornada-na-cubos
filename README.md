@@ -343,6 +343,9 @@
 * Diversidade e inclusão em tecnologia
   * Nos últimos anos, a área da tecnologia recebeu mais diversidade do que em outros áreas compostas principalmente por homens héteros brancos e não é uma área com tantos preconceitos  
 * Marca Pessoal e Plano de Carreira
+  * A combinação dos temas seriam em como se estabelecer no mercado à longo prazo e como deixar sua marca.
+
+
 
 #### Back-end:
 * Introdução ao Docker e Docker compose
@@ -373,6 +376,9 @@
   * Por que há pouca diversidade no mercado em geral.
   * Como a tecnlologia contribui para a inclusão e diversidade.
 * Marca Pessoal e Plano de Carreira
+  * Apender a protejar uma boa marca pessoal e como deixar ela atraente.
+  * Como elaborar e estruturar um plano de carreira de modo que seja possível torna-lo concretizável.
+  * Conectar ambos os temas para metas de curto e médio prazo.
  
    
 #### Back-end:
