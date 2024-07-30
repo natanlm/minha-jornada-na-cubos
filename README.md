@@ -444,6 +444,11 @@
   * Aprendi sobre _Constraints_ e como elas são aplicadas na criação do banco de dados. Podendo ser: _Primary key_: identificador único em cada registro; _Foreign key_: referencia a chave primária com outra tabela; _Unique_: define um campo com valor único impedindo repetições;e _Not null_: impede que receba valor nulo.
   * Dentro do _Navicat_ há um campo que gera automaticamente todo o código até então desenvolvido, no qual você pode copiá-lo e aplicar diretamente no _Beekeeper_.
 * CRUD SQL
+  * Aprendi a definição de C.R.U.D: _Create_, _Read_, _Update_ e _Delete_. Esses conceitos são a base para toda a construção de um banco de dados.
+  * O _Create_ está relacionado ao comando _INSERT, no qual é usado para criar/acrescentar valores.
+  * O _Read_ está relacionado ao comando _SELECT_, que trás uma informação ou o conjunto das informações pedidas.
+  * O _Update_ possui o comando com o mesmo nome. É preciso ficar atento para especificar corretamente o que vai ser atualizado, pois caso contrário tudo será atualizado com as mesmas informações.
+  * O _Delete_ possui o comando com o mesmo nome. É preciso ficar atento para especificar corretamente o que vai ser excluido, pois caso contrário tudo será excluído. Uma vez excluído, não tem como conseguir as informações se não houver um _back-up_.
 * Agrupamento e Relacionamentos entre Tabelas
 
  
