@@ -356,6 +356,7 @@
 * CRUD SQL
   * Imagino que sejo outro tipo de banco de dados por ser SQL
 * Agrupamento e Relacionamentos entre Tabelas
+  * Agrupamentos seriam a contagem de uma informação para uma única leitua e o Relacionamentos seriam os campos que conversam entre as tabaleas.
 
 </details > 
 
@@ -398,6 +399,8 @@
   * Saber como utilizar e como aplicar as melhores práticas.
   * Saber se há alguma relação com o _Postgres_ e se conecta ao _Beekeeper_. 
 * Agrupamento e Relacionamentos entre Tabelas
+  * Entender melhor o que Agrupamento e Relacionamentos.
+  * Aprender a utilizar os comandos que compõem o agrupamento e relacionamento.
 
   
 
@@ -450,6 +453,11 @@
   * O _Update_ possui o comando com o mesmo nome. É preciso ficar atento para especificar corretamente o que vai ser atualizado, pois caso contrário tudo será atualizado com as mesmas informações.
   * O _Delete_ possui o comando com o mesmo nome. É preciso ficar atento para especificar corretamente o que vai ser excluido, pois caso contrário tudo será excluído. Uma vez excluído, não tem como conseguir as informações se não houver um _back-up_.
 * Agrupamento e Relacionamentos entre Tabelas
+  * O agrupamento anda junto com a agregação, pois primeiro é necessário agregar as informações, como contagem, máximo, mínimo e média para então conseguir agrupar essas informações no seu respectivo campo.
+  * É utilizado o comando _GROUP BY_ sempre ao final da linha do código para realizar o agrupamento.
+  * O comando _JOIN_ serve para unir duas ou mais tabelas. É essa função que permite ocorrer o relacionamento entre as tabelas. 
+  * É necessário que a chave estrangeira seja do mesmo tipo da chave primária para ocorre a ligação.
+  * Existe tipos de _JOIN_, sendo: _INNER_, _LEFT_ e _RIGHT_. A função é unir o que tem em comum, trazer todas as informações da tabela da esquerda ou da tabela a direita.
 
  
 </details >
