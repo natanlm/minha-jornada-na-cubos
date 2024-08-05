@@ -321,6 +321,7 @@
 * Metodologias ágeis
 * Diversidade e inclusão em tecnologia
 * Marca Pessoal e Plano de Carreira
+* Como encontrar vagas de emprego
 
 
 #### Back-end:
@@ -330,6 +331,8 @@
 * Modelagem de dados
 * CRUD SQL
 * Agrupamento e Relacionamentos entre Tabelas
+* Conexão Node.js com PostgreSQL
+
 
 </details>
 
@@ -344,6 +347,7 @@
   * Nos últimos anos, a área da tecnologia recebeu mais diversidade do que em outros áreas compostas principalmente por homens héteros brancos e não é uma área com tantos preconceitos  
 * Marca Pessoal e Plano de Carreira
   * A combinação dos temas seriam em como se estabelecer no mercado à longo prazo e como deixar sua marca.
+* Como encontrar vagas de emprego
 
 
 
@@ -360,6 +364,8 @@
   * Imagino que sejo outro tipo de banco de dados por ser SQL
 * Agrupamento e Relacionamentos entre Tabelas
   * Agrupamentos seriam a contagem de uma informação para uma única leitua e o Relacionamentos seriam os campos que conversam entre as tabaleas.
+* Conexão Node.js com PostgreSQL
+
 
 </details > 
 
@@ -379,6 +385,7 @@
   * Apender a protejar uma boa marca pessoal e como deixar ela atraente.
   * Como elaborar e estruturar um plano de carreira de modo que seja possível torna-lo concretizável.
   * Conectar ambos os temas para metas de curto e médio prazo.
+* Como encontrar vagas de emprego
  
    
 #### Back-end:
@@ -407,6 +414,7 @@
 * Agrupamento e Relacionamentos entre Tabelas
   * Entender melhor o que Agrupamento e Relacionamentos.
   * Aprender a utilizar os comandos que compõem o agrupamento e relacionamento.
+* Conexão Node.js com PostgreSQL
 
   
 
@@ -428,6 +436,7 @@
   * A diversidade é concentrada na base da empresa e a medida que os cargos se elevam, mais filtros são postos até quase sempre chegar no homem branco hetero.
   * A diversidade permite a contribuição de outras visões e vivências para entender as necessidades de todo um grupo e não apenas de uma parcela, isso em um projeto permite eliminar problemas que só descobririam posteriormente. 
 * Marca Pessoal e Plano de Carreira
+* Como encontrar vagas de emprego
  
  
 #### Back-end:
@@ -464,6 +473,9 @@
   * O comando _JOIN_ serve para unir duas ou mais tabelas. É essa função que permite ocorrer o relacionamento entre as tabelas. 
   * É necessário que a chave estrangeira seja do mesmo tipo da chave primária para ocorre a ligação.
   * Existe tipos de _JOIN_, sendo: _INNER_, _LEFT_ e _RIGHT_. A função é unir o que tem em comum, trazer todas as informações da tabela da esquerda ou da tabela a direita.
+* Conexão Node.js com PostgreSQL
+
+
 
  
 </details >
