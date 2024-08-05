@@ -365,6 +365,7 @@
 * Agrupamento e Relacionamentos entre Tabelas
   * Agrupamentos seriam a contagem de uma informação para uma única leitua e o Relacionamentos seriam os campos que conversam entre as tabaleas.
 * Conexão Node.js com PostgreSQL
+  * A ligação entre ambos para realizar a requição à banco de dados conectados a servidores.
 
 
 </details > 
@@ -415,6 +416,9 @@
   * Entender melhor o que Agrupamento e Relacionamentos.
   * Aprender a utilizar os comandos que compõem o agrupamento e relacionamento.
 * Conexão Node.js com PostgreSQL
+  * Preparar/configurar de modo correto para realizar a conexão entre o Node.js e o PostgreSQL
+  * Entender como realizar a requisições para enviar ao SQL.
+  * Aprender a construir o código para realizar o funcionamento correto.
 
   
 
