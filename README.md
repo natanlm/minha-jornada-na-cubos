@@ -442,6 +442,12 @@
   * A diversidade é concentrada na base da empresa e a medida que os cargos se elevam, mais filtros são postos até quase sempre chegar no homem branco hetero.
   * A diversidade permite a contribuição de outras visões e vivências para entender as necessidades de todo um grupo e não apenas de uma parcela, isso em um projeto permite eliminar problemas que só descobririam posteriormente. 
 * Marca Pessoal e Plano de Carreira
+  * O mercado de trabalho para se atuar com programação é grande e cada um requer um tipo diferente de habilidades, sendo as áreas de: _EdTech_, _Fintech_, _Healthtech_, _E-commerce_, _IoT_, _Game Development_, _Cybersecurity_ e _Artificial Intelligence_.
+  * Observando todas as áreas do mercado de trabalho, elas possuem requisitos de _soft skills_ muito semelhantes, como: comunicação, empatia, trabalho em equipe e  ética.
+  * Existem diferentes planos de carreira e os que mais ocorrem são dos tipos Y e W.
+  * A elaboração do próprio plano de carreira precisa ter respostas que direcionam, sendo: objetivo profissional; quanto tempo para alcançar; quais habilidades/competências necessáris; o que precisa desenvolver e onde buscar.
+  * A marca pessoal parte de todo esse planejamento seguindo para identificar suas habilidades e seus pontos forte únicos, onde o que você tem de diferenciação e especializações.
+  * Além desses itens mais voltados para _hard skills_, é preciso que você seja você mesmo, agir com honestidade e integridade.
 * Como encontrar vagas de emprego
  
  
