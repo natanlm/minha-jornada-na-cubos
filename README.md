@@ -332,6 +332,7 @@
 * CRUD SQL
 * Agrupamento e Relacionamentos entre Tabelas
 * Conexão Node.js com PostgreSQL
+* Autenticação e Criptografia
 
 
 </details>
@@ -366,6 +367,7 @@
   * Agrupamentos seriam a contagem de uma informação para uma única leitua e o Relacionamentos seriam os campos que conversam entre as tabaleas.
 * Conexão Node.js com PostgreSQL
   * A ligação entre ambos para realizar a requição à banco de dados conectados a servidores.
+* Autenticação e Criptografia
 
 
 </details > 
@@ -419,7 +421,7 @@
   * Preparar/configurar de modo correto para realizar a conexão entre o Node.js e o PostgreSQL
   * Entender como realizar a requisições para enviar ao SQL.
   * Aprender a construir o código para realizar o funcionamento correto.
-
+* Autenticação e Criptografia
   
 
 </details > 
@@ -478,6 +480,7 @@
   * É necessário que a chave estrangeira seja do mesmo tipo da chave primária para ocorre a ligação.
   * Existe tipos de _JOIN_, sendo: _INNER_, _LEFT_ e _RIGHT_. A função é unir o que tem em comum, trazer todas as informações da tabela da esquerda ou da tabela a direita.
 * Conexão Node.js com PostgreSQL
+* Autenticação e Criptografia
 
 
 
