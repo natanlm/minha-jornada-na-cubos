@@ -368,6 +368,7 @@
 * Conexão Node.js com PostgreSQL
   * A ligação entre ambos para realizar a requição à banco de dados conectados a servidores.
 * Autenticação e Criptografia
+  * Serve para criar um código único para o usuário para que ninguém além dele tenha acesso as suas informações. 
 
 
 </details > 
@@ -422,7 +423,10 @@
   * Entender como realizar a requisições para enviar ao SQL.
   * Aprender a construir o código para realizar o funcionamento correto.
 * Autenticação e Criptografia
-  
+  * Entender mais afundo o que é autenticação e criptografia.
+  * Aprender a como utilizar a criptografia.
+  * Aprender a utilizar a autenticação junto a criptografia.
+  * Aprender as boas práticas para realizar a autenticação e criptografia de modo simples e prático para leitura.
 
 </details > 
  
