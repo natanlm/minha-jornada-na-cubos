@@ -333,7 +333,8 @@
 * Agrupamento e Relacionamentos entre Tabelas
 * Conexão Node.js com PostgreSQL
 * Autenticação e Criptografia
-
+* Integração com API de terceiros
+* Git e Fluxo de trabalho em equipe
 
 </details>
 
@@ -369,6 +370,10 @@
   * A ligação entre ambos para realizar a requição à banco de dados conectados a servidores.
 * Autenticação e Criptografia
   * Serve para criar um código único para o usuário para que ninguém além dele tenha acesso as suas informações. 
+* Integração com API de terceiros
+  * Seria uma forma de unir o próprio projeto com recursos de terceiros.
+* Git e Fluxo de trabalho em equipe
+  * Ter o projeto em algum lugar com o GitHub para todos da equipe acessarem e trabalherem ao mesmo tempo, para isso utilizar o _git branch_.
 
 
 </details > 
@@ -427,6 +432,16 @@
   * Aprender a como utilizar a criptografia.
   * Aprender a utilizar a autenticação junto a criptografia.
   * Aprender as boas práticas para realizar a autenticação e criptografia de modo simples e prático para leitura.
+* Integração com API de terceiros
+  * Como procurar API de terceiros.
+  * Configurar a API de terceiro junto ao próprio projeto.
+  * Boas práticas para organizar e realizar a conexão.
+* Git e Fluxo de trabalho em equipe
+  * Como utilizar corretamente o _GIT_.
+  * Comandos que contribuam para o trabalho em equipe.
+  * Melhores práticas para o fluxo de trabalho em equipe.
+  * Como distribuir da melhor maneira as tarefas para manter um bom ritmo de trabalho.
+
 
 </details > 
  
@@ -491,6 +506,10 @@
   * Existe tipos de _JOIN_, sendo: _INNER_, _LEFT_ e _RIGHT_. A função é unir o que tem em comum, trazer todas as informações da tabela da esquerda ou da tabela a direita.
 * Conexão Node.js com PostgreSQL
 * Autenticação e Criptografia
+* Integração com API de terceiros
+  * 
+* Git e Fluxo de trabalho em equipe
+  * 
 
 
 
