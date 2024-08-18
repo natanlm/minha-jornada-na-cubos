@@ -505,6 +505,12 @@
   * É necessário que a chave estrangeira seja do mesmo tipo da chave primária para ocorre a ligação.
   * Existe tipos de _JOIN_, sendo: _INNER_, _LEFT_ e _RIGHT_. A função é unir o que tem em comum, trazer todas as informações da tabela da esquerda ou da tabela a direita.
 * Conexão Node.js com PostgreSQL
+  * Fui apresentado a biblioteca _node-postgres_, na qual faz a ligação entre a API e o SQL.
+  * Aprendi como aplicar e configurar dentro do próprio projeto, como também a proteger esses dados que podem ser sensíveis por meio da utilização do _.env_.
+  * Aprendi como fazer as requisições para retornar as informações como se estivesse trabalhando dentro do _Postgres_.
+  * Como previnir de ataques de _SQL Injection_.
+  * Como tratar erros utilizando o _catch_.
+  * Retornar informações de multiplos bancos unindo eles em um único retorno.
 * Autenticação e Criptografia
 * Integração com API de terceiros
   * 
