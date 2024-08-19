@@ -512,6 +512,12 @@
   * Como tratar erros utilizando o _catch_.
   * Retornar informações de multiplos bancos unindo eles em um único retorno.
 * Autenticação e Criptografia
+  * Conheci e compreendi o que é criptografia e o porque de se utilizar.
+  * Fui apresentado à criptografia simétrica, hash e assinatura digital.
+  * Conheci a biblioteca _bcrypt_, está serve para realizar a criptografia da senha dentro da API.
+  * Aprendi os conceitos e como aplicar dentro da API.
+  * Também fui apresentado à biblioteca _jwt_, está serve para realizar a autenticação do token.
+  * Aprendi a como utilizar, proteger e criar _middleware_ para os rotas que precisam de segurança.
 * Integração com API de terceiros
   * 
 * Git e Fluxo de trabalho em equipe
