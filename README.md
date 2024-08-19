@@ -525,7 +525,11 @@
   * Aprendi a boas práticas para construir o código, como a utilizar o _baseURL_ para evitar erros de encaminhamendo de endereço.
   * Aprendi a como implementar a _API_ da _OpenAi_ dentro do próprio projeto, como também a fazer requisições para se obter uma resposta.
 * Git e Fluxo de trabalho em equipe
-  * 
+  * Ocorreu uma revisão dos principais comandos do _git_: _push_, _pull_, _checkout_ e _merge_.
+  * Como criar e exportar um servidor local para a nuvem.
+  * Compreendi como utilizar no ambiente de trabalho, onde se cria _branch_e cada um trabalha na suas etapas e depois vai juntando até ficar válido para a _branch master_.
+  * Vi a simulação de um dia de trabalho na área da programação e como funciona a divisão de tarefas dentro de uma equipe.
+  * Vi como ocorre alguns dos principais conflitos quando se trata de produzir código e como corrigir esses conflitos.
 
 
 
