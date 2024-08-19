@@ -519,7 +519,11 @@
   * Também fui apresentado à biblioteca _jwt_, está serve para realizar a autenticação do token.
   * Aprendi a como utilizar, proteger e criar _middleware_ para os rotas que precisam de segurança.
 * Integração com API de terceiros
-  * 
+  * Fui apresentado a biblioteca _axios_, esta faz a ligação entre as _API's_.
+  * _Axios_ é um cliente _HTTP_ para o _Node.js_ e navegador, utilizando _node.js_ do lado do servidore e _XMLHttpRequests_ do lado do cliente.
+  * Aprendi a configurar o _axios_ dentro da _API_ e a trabalhar com o mesmo.
+  * Aprendi a boas práticas para construir o código, como a utilizar o _baseURL_ para evitar erros de encaminhamendo de endereço.
+  * Aprendi a como implementar a _API_ da _OpenAi_ dentro do próprio projeto, como também a fazer requisições para se obter uma resposta.
 * Git e Fluxo de trabalho em equipe
   * 
 
