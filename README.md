@@ -527,8 +527,10 @@
   * Vi a simulação de um dia de trabalho na área da programação e como funciona a divisão de tarefas dentro de uma equipe.
   * Vi como ocorre alguns dos principais conflitos quando se trata de produzir código e como corrigir esses conflitos.
 
+</details >
+</details >
 
-## Módulo 04
+## Módulo 05
 <details >
  
 ### Conteúdos a serem trabalhados nesse módulo:
@@ -557,6 +559,7 @@
 
 #### Back-end:
 * ORM I
+  * Não sei nada do que se trata ORM e nem como isso impacta no dia a dia ao trabalhar com programação.
 * ORM II
 * Introdução ao NestJS
 
@@ -568,11 +571,13 @@
 
 #### Masterclass Carreira:
 * LinkedIn 
-
- 
    
 #### Back-end:
 * ORM I
+  * Entender o que é ORM.
+  * Aprender a como trabalhar com ORM.
+  * Compreender como isso impacta no dia a dia de trabalho.
+  * Aprender as boas práticas.
 * ORM II
 * Introdução ao NestJS
 
