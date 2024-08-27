@@ -321,7 +321,6 @@
 * Metodologias ágeis
 * Diversidade e inclusão em tecnologia
 * Marca Pessoal e Plano de Carreira
-* Como encontrar vagas de emprego
 
 
 #### Back-end:
@@ -349,7 +348,6 @@
   * Nos últimos anos, a área da tecnologia recebeu mais diversidade do que em outros áreas compostas principalmente por homens héteros brancos e não é uma área com tantos preconceitos  
 * Marca Pessoal e Plano de Carreira
   * A combinação dos temas seriam em como se estabelecer no mercado à longo prazo e como deixar sua marca.
-* Como encontrar vagas de emprego
 
 
 
@@ -394,7 +392,6 @@
   * Apender a protejar uma boa marca pessoal e como deixar ela atraente.
   * Como elaborar e estruturar um plano de carreira de modo que seja possível torna-lo concretizável.
   * Conectar ambos os temas para metas de curto e médio prazo.
-* Como encontrar vagas de emprego
  
    
 #### Back-end:
@@ -467,8 +464,7 @@
   * A elaboração do próprio plano de carreira precisa ter respostas que direcionam, sendo: objetivo profissional; quanto tempo para alcançar; quais habilidades/competências necessáris; o que precisa desenvolver e onde buscar.
   * A marca pessoal parte de todo esse planejamento seguindo para identificar suas habilidades e seus pontos forte únicos, onde o que você tem de diferenciação e especializações.
   * Além desses itens mais voltados para _hard skills_, é preciso que você seja você mesmo, agir com honestidade e integridade.
-* Como encontrar vagas de emprego
- 
+
  
 #### Back-end:
 * Introdução ao Docker e Docker compose
@@ -532,7 +528,70 @@
   * Vi como ocorre alguns dos principais conflitos quando se trata de produzir código e como corrigir esses conflitos.
 
 
+## Módulo 04
+<details >
+ 
+### Conteúdos a serem trabalhados nesse módulo:
+<details >
+ 
+#### Masterclass Carreira:
+* LinkedIn 
+
+
+#### Back-end:
+* ORM I
+* ORM II
+* Introdução ao NestJS
+
+
+</details>
+
+
+### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+<details >
+ 
+#### Masterclass Carreira:
+* LinkedIn 
+
+
+
+#### Back-end:
+* ORM I
+* ORM II
+* Introdução ao NestJS
+
+
+</details > 
+
+### O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+<details >
+
+#### Masterclass Carreira:
+* LinkedIn 
 
  
+   
+#### Back-end:
+* ORM I
+* ORM II
+* Introdução ao NestJS
+
+
+</details > 
+ 
+### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+<details >
+
+#### Masterclass Carreira:
+* LinkedIn 
+
+ 
+ 
+#### Back-end:
+* ORM I
+* ORM II
+* Introdução ao NestJS
+
+  
 </details >
 </details>
